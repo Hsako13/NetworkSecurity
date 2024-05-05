@@ -1,0 +1,35 @@
+The network security policy outlines best practices for protecting sensitive data, preventing unauthorized access, and mitigating cybersecurity risks, affecting all employees, contractors, and vendors accessing the organization's network resources. The network security policy safeguards an organization's network resources, data, and mitigates cybersecurity risks. Employees can contribute to the organization's security posture and compliance with regulations. Regular training, risk assessments, and policy reviews ensure ongoing effectiveness and adaptability to emerging threats.
+
+1.	Data Protection
+•	Data transmission over networks must be encrypted using approved protocols like SSL/TLS. 
+•	Sensitive data, including PII and PHI, must be handled according to GDPR and HIPAA regulations.
+•	 Access to sensitive data should be restricted based on least privilege, and regular off-site backups of critical data are necessary to prevent security incidents.
+
+2.	Access Control
+•	Access control in network systems requires user accounts for authorized personnel, with minimal complexity requirements and regular changes. 
+•	Multi-factor authentication is recommended for sensitive systems and data. 
+•	Network access should be based on roles and responsibilities, reviewed and updated regularly.
+•	Temporary accounts are provided when needed.
+
+3.	Incident Response
+•	An incident response plan should be developed to detect, assess, and respond to security incidents, with all incidents reported to the IT team for investigation and remediation.
+•	 Post-incident forensic analysis is conducted to identify root causes and prevent future incidents, with lessons learned documented for future use.
+
+
+4.	Compliance
+•	The organization must adhere to all relevant regulations and standards, such as GDPR, HIPAA, and PCI DSS, through regular audits and assessments, and non-compliance may lead to disciplinary action, such as termination of employment or contract.
+
+5.	Employee Training
+•	Regular cybersecurity awareness training is mandatory for all employees, covering topics like password security, phishing awareness, social engineering attacks, and data handling procedures. 
+•	Employees should be educated on their roles in maintaining network security and reporting suspicious activities.
+
+6.	Risk Assessment
+•	Regular risk assessments are crucial for identifying potential vulnerabilities and threats to an organization's network infrastructure, considering factors like likelihood, impact on business operations, and control effectiveness.
+•	Mitigation strategies should be implemented based on risk level and available resources.
+
+7.	Policy Review
+•	The network security policy should be regularly reviewed and updated to align with technological, regulatory, and business requirements, involving key stakeholders from IT, security, legal, and compliance departments, and communicated to all employees and stakeholders for compliance.
+
+8.	Enforcement
+•	The network security policy is mandatory for all employees, contractors, and vendors, and violations may lead to disciplinary action.
+•	 The IT security team enforces the policy through regular audits and warnings.
